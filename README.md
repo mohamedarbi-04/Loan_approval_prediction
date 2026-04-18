@@ -25,7 +25,7 @@ Financial institutions process thousands of loan applications daily. This projec
 ```
 loan-approval-prediction/
 │
-├── loan_prediction.ipynb       # Main notebook (EDA + modelling)
+├── loan_approval_EDA.ipynb       # Main notebook (EDA + modelling)
 ├── train.csv                   # Training data
 ├── test.csv                    # Test data
 ├── submission.csv              # Final predictions
